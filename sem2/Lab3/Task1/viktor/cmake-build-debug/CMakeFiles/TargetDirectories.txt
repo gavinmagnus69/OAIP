@@ -1,0 +1,3 @@
+C:/romanfiles/viktor/cmake-build-debug/CMakeFiles/viktor.dir
+C:/romanfiles/viktor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/romanfiles/viktor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

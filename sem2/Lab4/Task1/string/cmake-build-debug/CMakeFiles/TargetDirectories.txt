@@ -1,0 +1,3 @@
+C:/romanfiles/string/cmake-build-debug/CMakeFiles/string.dir
+C:/romanfiles/string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/romanfiles/string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/romanfiles/map_and_set/cmake-build-debug/CMakeFiles/map_and_set.dir
+C:/romanfiles/map_and_set/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/romanfiles/map_and_set/cmake-build-debug/CMakeFiles/rebuild_cache.dir

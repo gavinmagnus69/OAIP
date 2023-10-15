@@ -1,0 +1,11 @@
+# ninja log v5
+0	535	6998419889315315	CMakeFiles/lab1_3.dir/main.cpp.obj	f7b13a7501f654f
+3	57	6998420497925672	CMakeFiles/lab1_3.dir/Number.cpp.obj	1f3d5e6f657268b9
+9	53	6998421113965802	CMakeFiles/lab1_3.dir/Expression.cpp.obj	835a6fde24a4c64c
+7	65	6998421114085722	CMakeFiles/lab1_3.dir/BinaryOperation.cpp.obj	f06ec0fd4ce742fe
+3	504	6998421118474516	CMakeFiles/lab1_3.dir/main.cpp.obj	f7b13a7501f654f
+504	577	6998421119170109	lab1_3.exe	d39b89d4237dd34d
+2	483	6998421426312399	CMakeFiles/lab1_3.dir/main.cpp.obj	f7b13a7501f654f
+483	556	6998421427012556	lab1_3.exe	d39b89d4237dd34d
+3	479	6998421627777113	CMakeFiles/lab1_3.dir/main.cpp.obj	f7b13a7501f654f
+480	553	6998421628487266	lab1_3.exe	d39b89d4237dd34d
